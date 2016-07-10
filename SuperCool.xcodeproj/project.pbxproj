@@ -14,6 +14,9 @@
 		F4AE75821D30BF6000B773F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4AE75801D30BF6000B773F7 /* LaunchScreen.storyboard */; };
 		F4AE758D1D30BF6000B773F7 /* SuperCoolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AE758C1D30BF6000B773F7 /* SuperCoolTests.swift */; };
 		F4AE75981D30BF6000B773F7 /* SuperCoolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AE75971D30BF6000B773F7 /* SuperCoolUITests.swift */; };
+		F4AE75A61D30C28F00B773F7 /* boomApp.png in Resources */ = {isa = PBXBuildFile; fileRef = F4AE75A51D30C28F00B773F7 /* boomApp.png */; };
+		F4AE75A71D30C28F00B773F7 /* boomApp.png in Resources */ = {isa = PBXBuildFile; fileRef = F4AE75A51D30C28F00B773F7 /* boomApp.png */; };
+		F4AE75A81D30C28F00B773F7 /* boomApp.png in Resources */ = {isa = PBXBuildFile; fileRef = F4AE75A51D30C28F00B773F7 /* boomApp.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		F4AE75931D30BF6000B773F7 /* SuperCoolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCoolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4AE75971D30BF6000B773F7 /* SuperCoolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperCoolUITests.swift; sourceTree = "<group>"; };
 		F4AE75991D30BF6000B773F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4AE75A51D30C28F00B773F7 /* boomApp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boomApp.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,7 @@
 				F4AE75791D30BF6000B773F7 /* ViewController.swift */,
 				F4AE757B1D30BF6000B773F7 /* Main.storyboard */,
 				F4AE757E1D30BF6000B773F7 /* Assets.xcassets */,
+				F4AE75A51D30C28F00B773F7 /* boomApp.png */,
 				F4AE75801D30BF6000B773F7 /* LaunchScreen.storyboard */,
 				F4AE75831D30BF6000B773F7 /* Info.plist */,
 			);
@@ -229,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4AE75A61D30C28F00B773F7 /* boomApp.png in Resources */,
 				F4AE75821D30BF6000B773F7 /* LaunchScreen.storyboard in Resources */,
 				F4AE757F1D30BF6000B773F7 /* Assets.xcassets in Resources */,
 				F4AE757D1D30BF6000B773F7 /* Main.storyboard in Resources */,
@@ -239,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4AE75A71D30C28F00B773F7 /* boomApp.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4AE75A81D30C28F00B773F7 /* boomApp.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +490,7 @@
 				F4AE759E1D30BF6000B773F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4AE759F1D30BF6000B773F7 /* Build configuration list for PBXNativeTarget "SuperCoolTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +499,7 @@
 				F4AE75A11D30BF6000B773F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4AE75A21D30BF6000B773F7 /* Build configuration list for PBXNativeTarget "SuperCoolUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +508,7 @@
 				F4AE75A41D30BF6000B773F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
